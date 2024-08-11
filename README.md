@@ -52,11 +52,13 @@ machine learning street talk- https://discord.gg/machine-learning-street-talk-ml
 eureka labs: https://discord.gg/ppEWkHZGJr , not much links, but has a course type structure similar to fast ai 
 
 ### Models 
-cohere : https://discord.gg/CsqyQFhEXT?event=1248301309233336350
+cohere : https://discord.gg/CsqyQFhEXT?event=1248301309233336350 ; general purpose
 
-stable diffusion- its stable diffusion!
+stable diffusion- its stable diffusion! ; image model
 
-AI ML API: https://discord.gg/VqBQMykwZM
+AI ML API: https://discord.gg/VqBQMykwZM ; llm i think? 
+
+Civtai https://discord.gg/civitai ; image model
 
 # Funding
 bio.xyz -A suite of important crypto research servers. incredibly useful. 
