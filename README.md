@@ -63,6 +63,9 @@ AI ML API: https://discord.gg/VqBQMykwZM ; llm i think?
 
 Civtai https://discord.gg/civitai ; image model
 
+BudE-https://discord.gg/z2pTUFh8zW ; voice model
+
+
 # Funding
 bio.xyz -A suite of important crypto research servers. incredibly useful. 
 
@@ -107,6 +110,12 @@ Math- Affinoid union: masters+ math server; very kind; not much resources ,  no 
 [https://discord.gg/PEACpx5bwZ
 ](https://opensciencelabs.org)-mostly does python stuff? not too active
 
+
+Engineering,machinist stuff-
+SEM hackers- electronics,machines,etc  https://discord.gg/RmcWAWRWj6
+vacuum hackors- resources and other scientific tools https://discord.gg/usdSpRYceq
+silicon pron- microscopy and other stuff https://discord.gg/MPgGQNRSyk
+silicon overlords- not too active; based on an irc channel https://discord.gg/74ddv7mJ
 
 High school stuff research: (if these links die you can check on disboard using keyterm research
 multiverse research: https://discord.gg/JdX2PnfhCg
