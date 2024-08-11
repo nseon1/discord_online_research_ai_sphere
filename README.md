@@ -54,6 +54,14 @@ machine learning street talk- https://discord.gg/machine-learning-street-talk-ml
 
 eureka labs: https://discord.gg/ppEWkHZGJr , not much links, but has a course type structure similar to fast ai 
 
+autogen: a microsoft package ; attempts agentic ai stuff https://discord.gg/BCrDruekfd , 
+
+emergence: Mostly inactive; Talks about emergent behaviour in AI  https://discord.gg/taVdBG2qBc
+
+pipeless-ai: a discord server for a github package, not too active https://discord.gg/kTdSg4Pms8, no links
+
+
+
 ### Models 
 cohere : https://discord.gg/CsqyQFhEXT?event=1248301309233336350 ; general purpose
 
@@ -67,7 +75,7 @@ BudE-https://discord.gg/z2pTUFh8zW ; voice model
 
 myshell-https://discord.gg/myshell ; create your own AI
 
-openrouter- https://discord.gg/4MVMSuCXdb 
+openrouter- https://discord.gg/4MVMSuCXdb ; partially create your own 
 
 # Funding
 bio.xyz -A suite of important crypto research servers. incredibly useful. 
@@ -147,6 +155,7 @@ alf quantum monte carlo- https://discord.gg/VppWWEPMHa , who knew; conferences h
 
 crowd funded cures-Oof. https://crowdfundedcures.org/ 
 
+self replicating AI- https://discord.gg/ShF5u94Tkn
 
 
 
