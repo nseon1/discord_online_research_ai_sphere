@@ -33,6 +33,7 @@ alignment labs ai - , another research group, more dead than the others https://
 
 Lucidrain's server- not too active but everyone there is pretty skilled. https://discord.gg/Rb8NXfTekt, no links, but everyone there is skilled 
 
+CarperAI- active,multiple LLM among others,projects https://discord.gg/N6WppSGrvR , some links
 
 ### Safety
 AI safety institute georgia tech- mostly dead server  dealing with policy stuff; sometimes links to fellowships and other stuff https://discord.gg/a4MzK97nJC
@@ -101,6 +102,8 @@ psychopharmacology- drugsssss (i aint putting link- think its on disboard somewh
 
 Math- Affinoid union: masters+ math server; very kind; not much resources ,  no links , server is semi hidden so no link
 
+[https://discord.gg/PEACpx5bwZ
+](https://opensciencelabs.org)-mostly does python stuff? not too active
 
 
 Dead servers:
