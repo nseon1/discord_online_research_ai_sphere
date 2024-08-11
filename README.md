@@ -2,7 +2,7 @@
 A compilation of the discord online sphere for ai research stuff
 ##TODO!: site:huggingface.co "discord.gg" discord gg for other keywords too eg office hours, checked the chinese servers ,  the discord.gg trick to find more servers, and a small writeup on what they are + the ones im leaving (all are academic/research/funding, but not all are active or in ai ; compsci and hard science sphere),github and baidu to find the chinese ; header links etc
 
-
+links=links to other servers in the server
 
 ## EA; effective altruism 
 
@@ -65,6 +65,9 @@ Civtai https://discord.gg/civitai ; image model
 
 BudE-https://discord.gg/z2pTUFh8zW ; voice model
 
+myshell-https://discord.gg/myshell ; create your own AI
+
+openrouter- https://discord.gg/4MVMSuCXdb 
 
 # Funding
 bio.xyz -A suite of important crypto research servers. incredibly useful. 
@@ -77,6 +80,7 @@ spacecord- space related server ; seems to be hs and undergrad; no links , not m
 
 
 chem 
+deepchem- a research server that does chem stuff, Very active and has weekly meetings; https://discord.gg/jpbbnGC8KB , no links.
 
 bio
 medarc- a research server that does bio stuff ; notably neuro - active. no links
