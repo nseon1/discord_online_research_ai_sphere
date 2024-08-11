@@ -108,6 +108,21 @@ Math- Affinoid union: masters+ math server; very kind; not much resources ,  no 
 ](https://opensciencelabs.org)-mostly does python stuff? not too active
 
 
+High school stuff research: (if these links die you can check on disboard using keyterm research
+multiverse research: https://discord.gg/JdX2PnfhCg
+
+youth inquiry network: write papers etc,https://discord.gg/WApKqDB2Uh ,
+
+Youth research initative: writing resources etc, https://discord.gg/WyfeFEU3G7
+
+international research- https://discord.gg/AqS5eyCzqd
+
+ISEF server- https://discord.gg/zbRpwZ4bGz
+
+Rishab academy; A lot of resources for the highschooler to society for science pipeline https://discord.gg/NWgPWPQVqB
+
+
+
 Dead servers:
 friendzymes,healthspan - both bio based
 
