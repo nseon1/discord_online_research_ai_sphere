@@ -12,32 +12,50 @@ A compilation of the discord online sphere for ai research stuff
 
 ### Research
 Mech interp discord- has a link to national deep inference fabric - does mech interp research ; eleutherhas link,has reading group 
+
 developmental interpretability -   uses statistical learning theory to do research- semi active; more so  a company atp , no links https://discord.com/invite/pCf4UynKsc
+
 national deep inference fabric- https://discord.gg/V2hss8qM ; hosts NNsight ; not very active but the devs are developing, no links
+
 active inference institute- another group that does interp ; https://discord.gg/ACeg699yT6 
+
 eleutherai-Its eleutherAI! links to a lot of stuff,has reading group
+
 Nous research-Another ai research group; projects on llms and reasoning https://discord.gg/nousresearch?event=1240826259920125982 ;  links to various stuff
+
 latent space ai server- has reading groups and practical applications, no links, https://discord.gg/WC3zwQuZvc
+
 cuda mode- https://discord.gg/cudamode - very important for gpu level stuff
+
 yannic kilcher discord- does research, general ai stuff, made by a youtuber
+
 alignment labs ai - , another research group, more dead than the others https://discord.gg/KauBjdXrma, no links
-Lucirain's server- not too active but everyone there is pretty skilled. https://discord.gg/Rb8NXfTekt, no links, but everyone there is skilled 
-D
+
+Lucidrain's server- not too active but everyone there is pretty skilled. https://discord.gg/Rb8NXfTekt, no links, but everyone there is skilled 
+
+
 ### Safety
 AI safety institute georgia tech- mostly dead server  dealing with policy stuff; sometimes links to fellowships and other stuff https://discord.gg/a4MzK97nJC
+
 Alignment Jams: AI alignment hackathons https://discord.gg/aUMyw94Nce no links ; active
 
 
 ### General AI
 Weights and biases- its the company ; mostly dead , no links , has jobs though https://discord.gg/EVqznj68Ru
+
 https://aiagentschallenge.com/ -agent plex is hosting a compeition, the server itself is dead though
+
 fast.ai-jeremy's server, not much links, not too active, useful if youre doing his courses though.
+
 machine learning street talk- https://discord.gg/machine-learning-street-talk-mlst-937356144060530778 ; general server to talk about ai,not much links
+
 eureka labs: https://discord.gg/ppEWkHZGJr , not much links, but has a course type structure similar to fast ai 
 
 ### Models 
 cohere : https://discord.gg/CsqyQFhEXT?event=1248301309233336350
+
 stable diffusion- its stable diffusion!
+
 AI ML API: https://discord.gg/VqBQMykwZM
 
 # Funding
@@ -54,19 +72,27 @@ chem
 
 bio
 medarc- a research server that does bio stuff ; notably neuro - active. no links
+
 openbioml-research server; has some links , unsure if the projects still are ongoing https://discord.gg/AtqmFT5nkr
 
 Biocord - discord's largest bio server ; lots of resources for undergrads ; some conferences and hackathons etc-  linking to other servers is banned here
+
 colabbio-might be dead- does ml bio stuff
+
 big data biology- https://discord.gg/eDaQy44qMp; computational open source bio informatic work, mostly dead; based on a youtuber
+
 ecology- inaturalist (an ecology server) is on discord, how nice ; links to a few other places, not a research server but it is nice
 
 neurosnap-drug discovery; like one person doing dev work
 
 neuroscience- Mostly dead server ; links to other hs servers (that are mostly dead) https://discord.gg/rzunRe8 
+
 R/neuroscience - Also mostly dead; sometimes links to conferences (but there are better places to find)
+
 Rad discord- radiobiology discord- requires a certificate thingy to join
+
 https://lifestylecorp.co.in/ - a strange suite of servers that aren't actually alive ; might be based in india.
+
 www.medacc.org
 
 psychopharmacology- drugsssss (i aint putting link- think its on disboard somewhere)
@@ -77,9 +103,13 @@ Math- Affinoid union: masters+ math server; very kind; not much resources ,  no 
 
 Dead servers:
 friendzymes,healthspan - both bio based
+
 agentplex- deals with ai agents, dead server but newsletter still up and running ; https://aiagentschallenge.com/ , site is up too
+
 https://discord.gg/nFdG99UAav - dead server that attemped to give ai  the ability to read emotions
+
 alf quantum monte carlo- https://discord.gg/VppWWEPMHa , who knew; conferences have discord servers now healthspan could've been good too- considering it allowed community projecs
+
 crowd funded cures-Oof. https://crowdfundedcures.org/ 
 
 
