@@ -35,6 +35,8 @@ Lucidrain's server- not too active but everyone there is pretty skilled. https:/
 
 CarperAI- active,multiple LLM among others,projects https://discord.gg/N6WppSGrvR , some links
 
+RWKV- discord based on the ai paper https://discord.gg/mse3ycQypu, somewhat active.
+
 ### Safety
 AI safety institute georgia tech- mostly dead server  dealing with policy stuff; sometimes links to fellowships and other stuff https://discord.gg/a4MzK97nJC
 
