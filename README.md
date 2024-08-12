@@ -169,7 +169,7 @@ self replicating AI- https://discord.gg/ShF5u94Tkn
 
 Benchmarking the benchmarks- a decent chunk of benchmarks are buggy even if you just swap the mcq's around https://discord.gg/8RHGyrD2Uu
 
-
+SolidUI-makes graphs from prompts; https://discord.gg/3rMX3gyFdc
 
 
 
