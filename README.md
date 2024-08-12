@@ -60,11 +60,7 @@ machine learning street talk- https://discord.gg/machine-learning-street-talk-ml
 
 eureka labs: https://discord.gg/ppEWkHZGJr , not much links, but has a course type structure similar to fast ai 
 
-autogen: a microsoft package ; attempts agentic ai stuff https://discord.gg/BCrDruekfd , 
-
 emergence: Mostly inactive; Talks about emergent behaviour in AI  https://discord.gg/taVdBG2qBc
-
-pipeless-ai: a discord server for a github package, not too active https://discord.gg/kTdSg4Pms8, no links
 
 aleksa gordic- has study groups,general ai, based on a youtuber https://discord.gg/RnK9hUrT4Y
 
@@ -72,9 +68,20 @@ Elysian labs- Not too active; trying to create ai waifus i think https://discord
 
 Alignment Jams: AI alignment hackathons https://discord.gg/aUMyw94Nce no links ; active
 
+LAION- general AI server, has resources,etc,Semi active https://discord.gg/zjjDaEMjP8
+
+Metauni- Has ai stuff as well as other fields; anyone can come and talk about what they want with meetings on roblox : https://discord.gg/Y3PCha4PcH
+
+## tools 
+
+text to depth- https://discord.gg/ftCgYzkZWP
+
+pipeless-ai: a discord server for a github package, not too active https://discord.gg/kTdSg4Pms8, no links
+
+autogen: a microsoft package ; attempts agentic ai stuff https://discord.gg/BCrDruekfd , 
+
 ChaiNNer-Helps do image processing tasks;eg upscaling via Neural networks; Based on a github. https://discord.gg/v47rGV3Hz2
 
-LAION- general AI server, has resources,etc,Semi active https://discord.gg/zjjDaEMjP8
 
 ### Models  N.b: there are a lot of models hosted on discord.
 cohere : https://discord.gg/CsqyQFhEXT?event=1248301309233336350 ; general purpose
@@ -107,6 +114,9 @@ bio.xyz -A suite of important crypto research servers. incredibly useful.
 
 
 # general computational chem bio phys social science research stuff:
+
+papers we love- not too active; seems to be an irl group talking about various papers https://discord.gg/9FsWFphet2
+
 ## physics
 spacecord- space related server ; seems to be hs and undergrad; no links , not much going on
 
