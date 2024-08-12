@@ -1,6 +1,13 @@
 # discord_online_research_ai_sphere
 A compilation of the discord online sphere for ai research stuff
-##TODO!: site:huggingface.co "discord.gg" discord gg for other keywords too eg office hours, checked the chinese servers ,  the discord.gg trick to find more servers, and a small writeup on what they are + the ones im leaving (all are academic/research/funding, but not all are active or in ai ; compsci and hard science sphere),github and baidu to find the chinese ; header links etc
+
+##TODO!: site:huggingface.co "discord.gg" discord gg for other keywords too eg office hours, checked the chinese servers ,
+
+the discord.gg trick to find more servers, and a small writeup on what they are + the ones im leaving
+
+(all are academic/research/funding, but not all are active or in ai ; compsci and hard science sphere),
+
+github and baidu to find the chinese ; header links etc
 
 links=links to other servers in the server
 
