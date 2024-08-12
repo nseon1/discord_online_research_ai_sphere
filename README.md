@@ -4,10 +4,6 @@ A compilation of the discord online sphere for ai research stuff
 
 links=links to other servers in the server
 
-## EA; effective altruism 
-
-
-
 ## AI
 
 ### Research
