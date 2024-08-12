@@ -140,8 +140,11 @@ psychopharmacology- drugsssss (i aint putting link- think its on disboard somewh
 
 ## Engineering,machinist stuff-
 SEM hackers- electronics,machines,etc  https://discord.gg/RmcWAWRWj6
+
 vacuum hackors- resources and other scientific tools https://discord.gg/usdSpRYceq
+
 silicon pron- microscopy and other stuff https://discord.gg/MPgGQNRSyk
+
 silicon overlords- not too active; based on an irc channel https://discord.gg/74ddv7mJ
 
 ## High school stuff research: (if these links die you can check on disboard using keyterm research
@@ -183,5 +186,7 @@ interpretability hangout- dead; a lot of other ai servers took its place. https:
 
 Notes: There is a decent chunk of servers ;notably on discordesp if you search by popularity that are just dead
 was active like 3-4 years ago, but dead now
+
 Esp common for social servers
+
  I will not be cataloguing compsci,hacking servers since those are ever shifting and findable on disboard, github , easily
