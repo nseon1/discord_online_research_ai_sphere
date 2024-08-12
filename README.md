@@ -40,9 +40,9 @@ RWKV- discord based on the ai paper https://discord.gg/mse3ycQypu, somewhat acti
 ### Safety
 AI safety institute georgia tech- mostly dead server  dealing with policy stuff; sometimes links to fellowships and other stuff https://discord.gg/a4MzK97nJC
 
-Alignment Jams: AI alignment hackathons https://discord.gg/aUMyw94Nce no links ; active
-
 Rob miles AI;Ai safety, based on a youtuber https://discord.gg/MBqTdHMR5D
+
+
 
 ### General AI
 Weights and biases- its the company ; mostly dead , no links , has jobs though https://discord.gg/EVqznj68Ru
@@ -63,8 +63,15 @@ pipeless-ai: a discord server for a github package, not too active https://disco
 
 aleksa gordic- has study groups,general ai, based on a youtuber https://discord.gg/RnK9hUrT4Y
 
+Elysian labs- Not too active; trying to create ai waifus i think https://discord.gg/elysianlabs
 
-### Models 
+Alignment Jams: AI alignment hackathons https://discord.gg/aUMyw94Nce no links ; active
+
+ChaiNNer-Helps do image processing tasks;eg upscaling via Neural networks; Based on a github. https://discord.gg/v47rGV3Hz2
+
+LAION- general AI server, has resources,etc,Semi active https://discord.gg/zjjDaEMjP8
+
+### Models  N.b: there are a lot of models hosted on discord.
 cohere : https://discord.gg/CsqyQFhEXT?event=1248301309233336350 ; general purpose
 
 stable diffusion- its stable diffusion! ; image model
@@ -87,6 +94,7 @@ onetrainer- helps train your own stablediffusion https://discord.gg/T4uxH5rj
 
 LMNT- audio ai on discord, https://discord.gg/XHx8A3kxYW
 
+wombo ai - https://discord.gg/wombo
 
 # Funding
 bio.xyz -A suite of important crypto research servers. incredibly useful. 
