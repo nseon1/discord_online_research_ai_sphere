@@ -60,6 +60,7 @@ emergence: Mostly inactive; Talks about emergent behaviour in AI  https://discor
 
 pipeless-ai: a discord server for a github package, not too active https://discord.gg/kTdSg4Pms8, no links
 
+aleksa gordic- has study groups,general ai, based on a youtuber https://discord.gg/RnK9hUrT4Y
 
 
 ### Models 
@@ -76,6 +77,15 @@ BudE-https://discord.gg/z2pTUFh8zW ; voice model
 myshell-https://discord.gg/myshell ; create your own AI
 
 openrouter- https://discord.gg/4MVMSuCXdb ; partially create your own 
+
+openinterpreter-Run openai on your terminal; https://discord.gg/open-interpreter-1146610656779440188
+
+swarmui- based on stablediffusion i think? https://discord.gg/q2y38cqjNw
+
+onetrainer- helps train your own stablediffusion https://discord.gg/T4uxH5rj
+
+LMNT- audio ai on discord, https://discord.gg/XHx8A3kxYW
+
 
 # Funding
 bio.xyz -A suite of important crypto research servers. incredibly useful. 
@@ -157,6 +167,7 @@ crowd funded cures-Oof. https://crowdfundedcures.org/
 
 self replicating AI- https://discord.gg/ShF5u94Tkn
 
+Benchmarking the benchmarks- a decent chunk of benchmarks are buggy even if you just swap the mcq's around https://discord.gg/8RHGyrD2Uu
 
 
 
