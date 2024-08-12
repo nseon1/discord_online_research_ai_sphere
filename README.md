@@ -98,14 +98,14 @@ bio.xyz -A suite of important crypto research servers. incredibly useful.
 
 
 # general computational chem bio phys social science research stuff:
-physics
+## physics
 spacecord- space related server ; seems to be hs and undergrad; no links , not much going on
 
 
-chem 
+## chem 
 deepchem- a research server that does chem stuff, Very active and has weekly meetings; https://discord.gg/jpbbnGC8KB , no links.
 
-bio
+## bio
 medarc- a research server that does bio stuff ; notably neuro - active. no links
 
 openbioml-research server; has some links , unsure if the projects still are ongoing https://discord.gg/AtqmFT5nkr
@@ -132,19 +132,19 @@ www.medacc.org
 
 psychopharmacology- drugsssss (i aint putting link- think its on disboard somewhere)
 
-Math- Affinoid union: masters+ math server; very kind; not much resources ,  no links , server is semi hidden so no link
+## Math- Affinoid union: masters+ math server; very kind; not much resources ,  no links , server is semi hidden so no link
 
 [https://discord.gg/PEACpx5bwZ
 ](https://opensciencelabs.org)-mostly does python stuff? not too active
 
 
-Engineering,machinist stuff-
+## Engineering,machinist stuff-
 SEM hackers- electronics,machines,etc  https://discord.gg/RmcWAWRWj6
 vacuum hackors- resources and other scientific tools https://discord.gg/usdSpRYceq
 silicon pron- microscopy and other stuff https://discord.gg/MPgGQNRSyk
 silicon overlords- not too active; based on an irc channel https://discord.gg/74ddv7mJ
 
-High school stuff research: (if these links die you can check on disboard using keyterm research
+## High school stuff research: (if these links die you can check on disboard using keyterm research
 multiverse research: https://discord.gg/JdX2PnfhCg
 
 youth inquiry network: write papers etc,https://discord.gg/WApKqDB2Uh ,
@@ -159,7 +159,7 @@ Rishab academy; A lot of resources for the highschooler to society for science p
 
 
 
-Dead servers:
+## Dead servers:
 friendzymes,healthspan - both bio based
 
 agentplex- deals with ai agents, dead server but newsletter still up and running ; https://aiagentschallenge.com/ , site is up too
