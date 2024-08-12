@@ -188,6 +188,7 @@ SolidUI-makes graphs from prompts; https://discord.gg/3rMX3gyFdc
 
 interpretability hangout- dead; a lot of other ai servers took its place. https://discord.gg/KSfSxY2j39
 
+TPU podcast- general ai, everyone split off afaik https://discord.gg/rwv6HhuCAC
 
 
 
