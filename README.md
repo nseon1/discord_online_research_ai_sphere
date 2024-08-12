@@ -7,7 +7,9 @@ the discord.gg trick to find more servers, and a small writeup on what they are 
 
 (all are academic/research/funding, but not all are active or in ai ; compsci and hard science sphere),
 
-github and baidu to find the chinese ; header links etc
+github and baidu to find the chinese ; header links etc on github
+
+docs.google.com trick for  each of the servers but idt it'll be very useful. and will take too long to trodge through
 
 links=links to other servers in the server
 
