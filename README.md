@@ -42,6 +42,7 @@ AI safety institute georgia tech- mostly dead server  dealing with policy stuff;
 
 Alignment Jams: AI alignment hackathons https://discord.gg/aUMyw94Nce no links ; active
 
+Rob miles AI;Ai safety, based on a youtuber https://discord.gg/MBqTdHMR5D
 
 ### General AI
 Weights and biases- its the company ; mostly dead , no links , has jobs though https://discord.gg/EVqznj68Ru
@@ -171,7 +172,7 @@ Benchmarking the benchmarks- a decent chunk of benchmarks are buggy even if you 
 
 SolidUI-makes graphs from prompts; https://discord.gg/3rMX3gyFdc
 
-
+interpretability hangout- dead; a lot of other ai servers took its place. https://discord.gg/KSfSxY2j39
 
 
 
